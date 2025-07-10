@@ -1,0 +1,8 @@
+bin/
+*.exe
+*.log
+.DS_Store
+vendor/
+.idea/
+.vscode/
+__pycache__/
